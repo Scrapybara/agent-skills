@@ -1,6 +1,6 @@
 # Agent Skills
 
-A collection of skills for AI coding agents by [Scrapybara](https://github.com/Scrapybara).
+A collection of skills for AI coding agents by [Capy](https://capy.ai).
 
 Skills follow the [Agent Skills](https://skills.sh/) format.
 
