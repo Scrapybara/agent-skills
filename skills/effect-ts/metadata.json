@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "organization": "Scrapybara",
+  "date": "February 2026",
+  "abstract": "Comprehensive guidance for building applications with Effect.ts - typed functional effects, dependency injection, structured concurrency, and resilient error handling. Covers core concepts, service patterns, layer composition, retry/resilience, HTTP clients, and production patterns.",
+  "references": [
+    "https://effect.website/docs/introduction",
+    "https://effect-ts.github.io/effect/",
+    "https://effect.website/llms-full.txt"
+  ]
+}
