@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "organization": "Scrapybara",
+  "date": "September 2026",
+  "abstract": "Makes short, premium product launch and feature videos (15-25 s, 1080p60) as HTML + GSAP compositions rendered with HyperFrames and cut on the music's beat grid. Covers launch-clip research, capturing real product UI, music choice and timing, sound design, loudness mastering, and frame-by-frame verification.",
+  "references": [
+    "https://github.com/heygen-com/hyperframes",
+    "https://gsap.com/docs/v3/",
+    "https://kenney.nl/assets/category:Audio",
+    "https://mixkit.co/free-sound-effects/"
+  ]
+}
