@@ -23,10 +23,30 @@ Effect.ts patterns for typed functional effects, dependency injection, error han
 - Production patterns (HTTP clients, configuration, retry, concurrency)
 - Common gotchas and troubleshooting
 
+### banger-video
+
+Short product launch and feature videos (15–25 s, 1080p60) in the style of the best software launches: a product display cut on the beat, not a screen-recorded demo. Built as HTML + GSAP and rendered with [HyperFrames](https://github.com/heygen-com/hyperframes).
+
+**Use when:**
+- Making a launch video, feature video, promo, teaser, or product montage
+- Recreating the feel of a reference launch clip for your own product
+
+**Topics covered:**
+- Researching reference launches frame by frame
+- Capturing real UI components and exact geometry
+- Choosing, timing, and mixing music and sound effects
+- Rendering and verifying every frame before delivery
+
 ## Installation
 
 ```bash
 npx skills add scrapybara/agent-skills
+```
+
+To install a single skill:
+
+```bash
+npx skills add scrapybara/agent-skills --skill banger-video
 ```
 
 ## Usage
@@ -42,6 +62,9 @@ Add retry logic with exponential backoff to this API call
 ```
 ```
 Migrate this Promise-based code to Effect.ts
+```
+```
+Make a 20 second launch video for our new search page
 ```
 
 ## Skill Structure
