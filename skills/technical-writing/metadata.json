@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "organization": "Scrapybara",
+  "date": "November 2026",
+  "abstract": "Writes and rewrites technical prose (specs, docs, PR descriptions, replies, commit messages) so a reader understands it on the first read. Sorts each section into one Diátaxis mode, then applies Google developer style, ISO 24495-1 plain language, ASD-STE100 sentence limits, and Global English disambiguation, and describes the final state only.",
+  "references": [
+    "https://diataxis.fr/",
+    "https://developers.google.com/style",
+    "https://www.iso.org/standard/78907.html",
+    "https://www.asd-ste100.org/"
+  ]
+}
