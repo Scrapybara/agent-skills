@@ -37,6 +37,21 @@ Short product launch and feature videos (15–25 s, 1080p60) in the style of the
 - Choosing, timing, and mixing music and sound effects
 - Rendering and verifying every frame before delivery
 
+### technical-writing
+
+Clear technical prose on the first read: specs, docs, PR descriptions, replies, and commit messages. Combines Diátaxis, Google developer style, ISO 24495-1 plain language, ASD-STE100 sentence limits, and Global English disambiguation.
+
+**Use when:**
+- Writing or rewriting a spec, doc, runbook, or design note
+- Tightening a PR description, commit message, or reply
+- Making any text clear to a reader on the first read
+
+**Topics covered:**
+- One Diátaxis mode (reference, explanation, or how-to) per section
+- Style, plain-language, sentence-length, and disambiguation rules
+- Describing the final state instead of the history
+- A checklist to run before sending
+
 ## Installation
 
 ```bash
@@ -65,6 +80,9 @@ Migrate this Promise-based code to Effect.ts
 ```
 ```
 Make a 20 second launch video for our new search page
+```
+```
+Rewrite this spec so it is clear on the first read
 ```
 
 ## Skill Structure
